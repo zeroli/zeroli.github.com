@@ -2,7 +2,7 @@
 layout: post
 title: "glib中的GQueue结构体"
 description: ""
-category: C++
+category: "Data Structure and Algorithm"
 tags: [glib代码阅读]
 
 ---
