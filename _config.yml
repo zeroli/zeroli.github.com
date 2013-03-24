@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : zeroom的技术博客
-url: http://brionas.github.com/
+url: http://zeroli.github.com/
 feed: /atom.xml
 tagline: 
 author :
@@ -18,7 +18,7 @@ author :
   email : zeroliql@gmail.com
   github : zeroli@github.com
   feedburner : feedname
-  keywords : 高性能软件设计
+  keywords : 高性能软件研发
   description: 学习、总结、分享，我们一起进步
 
 # The production_url is only used when full-domain names are needed
