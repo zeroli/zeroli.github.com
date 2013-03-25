@@ -3,7 +3,7 @@ layout: post
 title: "malloc相关的函数浅析"
 description: ""
 category: "memory_management"
-tags: [malloc]
+tags: [内存管理]
 ---
 {% include JB/setup %}
 
