@@ -2,7 +2,7 @@
 layout: post
 title: "函数模板总结"
 description: "函数模板代表一个函数家族"
-category: C++
+category: cpp
 tags: [C++ templates]
 ---
 {% include JB/setup %}

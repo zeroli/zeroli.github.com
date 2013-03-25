@@ -2,7 +2,7 @@
 layout: post
 title: "rope算法学习"
 description: ""
-category: "Data Structure and Algorithm"
+category: "Data_Structure_and_Algorithm"
 tags: [glib代码阅读]
 ---
 {% include JB/setup %}

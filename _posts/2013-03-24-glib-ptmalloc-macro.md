@@ -2,7 +2,7 @@
 layout: post
 title: "glibc ptmalloc中的宏操作"
 description: ""
-category: "memory management"
+category: "memory_management"
 tags: [内存管理, glib代码阅读]
 ---
 {% include JB/setup %}

@@ -2,7 +2,7 @@
 layout: post
 title: "STL allocator"
 description: "关于STL 中allocator的接口与实现，wiki有比较清楚的定义。SGI STL版本的allocator并没有遵守C++标准。它只提供simple_alloc类共container使用，设计的allocator名字叫做alloc，有二级配置器。"
-category: "C++"
+category: cpp
 tags: [STL源码阅读]
 ---
 {% include JB/setup %}

@@ -2,7 +2,7 @@
 layout: post
 title: "glib的slab算法实现学习"
 description: ""
-category: "memory management"
+category: "memory_management"
 tags: [slab, glib代码阅读]
 ---
 {% include JB/setup %}

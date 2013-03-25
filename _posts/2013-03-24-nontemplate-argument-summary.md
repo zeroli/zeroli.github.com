@@ -2,7 +2,7 @@
 layout: post
 title: "非类型模板参数知识点梳理"
 description: ""
-category: C++
+category: cpp
 tags: [C++ templates]
 ---
 {% include JB/setup %}

@@ -2,7 +2,7 @@
 layout: post
 title: "链表的反转"
 description: ""
-category: "Data Structure and Algorithm"
+category: "Data_Structure_and_Algorithm"
 tags: [链表, glib代码阅读]
 ---
 {% include JB/setup %}

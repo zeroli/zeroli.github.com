@@ -2,7 +2,7 @@
 layout: post
 title: "一些模板术语"
 description: ""
-category: C++
+category: cpp
 tags: [C++ templates]
 ---
 {% include JB/setup %}
