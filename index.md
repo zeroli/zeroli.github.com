@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Life About Programming
-tagline: printf("Hello, Programs!\n");
+title: zeroom的技术专栏
 ---
 {% include JB/setup %}
 
