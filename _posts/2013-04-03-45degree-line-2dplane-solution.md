@@ -2,7 +2,7 @@
 layout: post
 title: "2D平面上n个点，求解最接近45度的2点连线 "
 description: ""
-category: "Data_Strucutre_and_Algorithm"
+category: "Data_Structure_and_Algorithm"
 tags: [算法, 计算几何]
 ---
 {% include JB/setup %}

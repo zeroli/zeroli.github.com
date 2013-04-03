@@ -2,7 +2,7 @@
 layout: post
 title: "2个浮点数的最大公约数的算法小结 "
 description: ""
-category: "Data_Strucutre_and_Algorithm"
+category: "Data_Structure_and_Algorithm"
 tags: [算法, lua]
 ---
 {% include JB/setup %}
